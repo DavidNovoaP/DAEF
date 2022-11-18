@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "David"
+  given-names: "Novoa-Paradela"
+  orcid: "https://orcid.org/0000-0002-9151-3324"
+- family-names: "Oscar"
+  given-names: "Fontenla-Romero"
+  orcid: "https://orcid.org/0000-0003-4203-8720"
+- family-names: "Bertha"
+  given-names: "Guijarro-Berdiñas"
+  orcid: "https://orcid.org/0000-0001-8901-5441"
+title: "Fast Deep Autoencoder for Federated learning Software"
+version: 1.0
+doi: unknow yet
+date-released: unknow yet
+url: "unknow-yet"
