@@ -1,2 +1,4 @@
 # DAEF
-Python language implementation of the Deep Autoencoder for Federated learning (DAEF) method. 
+Fast Deep Autoencoder for Federated learning (DAEF).
+
+We are working on it to release a suitable implementation.
